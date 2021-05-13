@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/snake.jpg" width="100%">
+<img src="img/snake.JPG" width="100%">
 </p>
 
 # Snake-Game
